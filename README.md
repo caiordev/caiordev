@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Caio Reis🖐️
 ### Bacharel em Ciência e Tecnologia e fututo Engenheiro de Computação.
-### Futuro Desenvolvedor Backend.
+### Desenvolvedor FullStack .
 ### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 
